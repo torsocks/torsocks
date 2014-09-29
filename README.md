@@ -11,4 +11,8 @@ or
 
     python3 test.py
 
-This should print out the contents of The Hidden Wiki. **Happy hacking!**
+This should print out the contents of The Hidden Wiki. To install this to your system, you should probably do this:
+
+    sudo ./setup.py install
+
+**Happy hacking!**
